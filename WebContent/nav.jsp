@@ -9,13 +9,13 @@
 <body>
 <nav>
 <ul>
-<li style="float: left;"><a href="#">Home</a></li>
+<li style="float: left;"><a href="index.jsp">Home</a></li>
 <li><a href="#">로그인</a></li>
-<li><a href="#">회원가입</a></li>
-<li><a href="#">상품등록</a></li>
-<li><a href="#">회원목록</a></li>
-<li><a href="#">상품목록</a></li>
-<li><a href="#">홈으로</a></li>
+<li><a href="addMember.jsp">회원가입</a></li>
+<li><a href="addProduct.jsp">상품등록</a></li>
+<li><a href="selectMember.jsp">회원목록</a></li>
+<li><a href="selectProduct.jsp">상품목록</a></li>
+<li><a href="index.jsp">홈으로</a></li>
 
 </ul>
 </nav>
